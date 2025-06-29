@@ -1,5 +1,5 @@
 # Compreender Node.js
-Este projeto básico de backend, que implementa um crud de usuários, foi criado com o objetivo de compreender o funcionamento do node.js para criação de apis usanod esta tecnologia.
+Este projeto básico de backend, que implementa um crud de usuários, foi criado com o objetivo de compreender o funcionamento do node.js para criação de apis.
 Esta lib que está muito em alta nos últimos anos. Após ver a criação de um projeto acadêmico usando typescript, decidi criar este projeto para compreender esta tecnologia.
 
 # Tecnologias
